@@ -1,0 +1,42 @@
+Módulos embutidos
+Os Serviços de Multimídia permitem algumas funcionalidades básicas de áudio em Python. Consiste nos seguintes módulos:
+
+audioop
+
+Manipule dados de áudio brutos.
+
+aifc
+
+Leia e escreva arquivos de áudio no formato AIFF ou AIFC.
+
+sunau
+
+Forneça uma interface para o formato de som Sun AU.
+
+onda
+
+Fornecer uma interface para o formato de som WAV.
+
+pedaço
+
+Módulo para ler fragmentos IFF (por exemplo, AIFF).
+
+cores
+
+Conversões entre sistemas de cores.
+
+imghdr
+
+Determine o tipo de um arquivo de imagem.
+
+sndhdr
+
+Determine o tipo de um arquivo de som.
+
+ossaudiodev
+
+Acesso a dispositivos de áudio compatíveis com OSS (principalmente importantes para Linux / FreeBSD)
+
+winsound
+
+Acesso à maquinaria básica de reprodução de som fornecida pelas plataformas Windows.
